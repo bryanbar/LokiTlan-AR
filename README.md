@@ -9,4 +9,5 @@ Software:
   - LookingGlass : allows for a graphics card to be passedthrough with a buffer copy
   - API : want to allow the ability to upload a video and return a finished output
   - KVM/QEMU : allows for the creation of virtual machines and use with virtualgl. Windows is too restrictive and so are vendors like Nvidia.
-  - iPhone 11 camera : has a good camera and also has lidar which I might be useful for automating with photogr
+  - iPhone 11 camera : has a good camera and also has lidar which I might be useful for automating with photogrammetry
+  - Drone camera : a small drone would allow for better angles
