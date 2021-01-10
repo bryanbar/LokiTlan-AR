@@ -1,6 +1,6 @@
 # Open Source Augmented Reality pipeline
 
-Pipline to allow for the use of a phone and an api to create a more immersive enviroment. This is done by creating 3d meshes that can then be refinded, or left as is, and allow for use with websites and augmented reality.
+Pipline to allow for the use of a phone and an api to create a more immersive enviroment. This is done by creating 3d meshes that can then be refinded, or left as is, and allow for use with websites and augmented reality. The use cases are for retail to interactive documentation (DIY documentation)
 
 Software:
   - Meshroom : processes images and creates various outputs that can be fed to blender or used as-is
